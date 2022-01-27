@@ -1,7 +1,6 @@
 package a01b.e1;
 
 import static org.junit.Assert.*;
-import java.util.*;
 
 public class Test {
 	
@@ -33,7 +32,7 @@ public class Test {
 	
 	@org.junit.Before
 	public void initFactory() {
-		//this.gf = new GridFactoryImpl();
+		this.gf = new GridFactoryImpl();
 	}
 	
 	

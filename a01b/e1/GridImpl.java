@@ -1,13 +1,11 @@
 package a01b.e1;
 
 import java.util.ArrayList;
-import java.util.Comparator;
 import java.util.HashMap;
 import java.util.Iterator;
 import java.util.List;
 import java.util.Map;
 import java.util.Optional;
-import java.util.stream.Collectors;
 
 public class GridImpl<E> implements Grid<E> {
 
