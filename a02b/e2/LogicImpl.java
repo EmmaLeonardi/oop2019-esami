@@ -2,9 +2,7 @@ package a02b.e2;
 
 import java.util.Set;
 import java.util.HashMap;
-import java.util.Iterator;
 import java.util.Map;
-import java.util.Map.Entry;
 
 public class LogicImpl implements Logic {
 
